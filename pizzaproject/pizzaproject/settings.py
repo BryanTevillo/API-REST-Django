@@ -134,10 +134,10 @@ if DEBUG is True:
 else:
     STATIC_ROOT = '/var/www/static/'
     STATICFILES_DIRS = [
-        Path(BASE_DIR, '/var/www/static/')
+        Path(BASE_DIR, '/var/www/venv/API-REST-Django/pizzaproject/static/')
     ]
     MEDIA_URL = '/media/'
-    MEDIA_ROOT = Path(BASE_DIR, '/var/www/ /media/')
+    MEDIA_ROOT = Path(BASE_DIR, '/var/www/venv/API-REST-Django/pizzaproject/media/)
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
