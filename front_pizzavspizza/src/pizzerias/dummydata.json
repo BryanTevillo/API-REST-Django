@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "pizzeria_name": "Pizza hot",
+    "city": "Acapulco"
+  },
+  {
+    "id": 2,
+    "pizzeria_name": "Pizza dominos",
+    "city": "Iguala"
+  },
+  {
+    "id": 3,
+    "pizzeria_name": "Pizza real",
+    "city": "chilpancingo"
+  }
+]
